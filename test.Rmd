@@ -1,0 +1,25 @@
+---
+title: "Untitled"
+output: html_document
+---
+
+*file life cycle
+  *Tracked (A) / Untracked (?) -- Modified / Unmodified
+
+
+*### Tools > Version control > Project setup > git
+*Staged check
+
+
+* my info configuration
+  * user.name
+  * user.email
+  
+* connect remote and local repositories
+
+```
+git remote add origin https://github.com/gpemelianov/researchE.git
+git push --set-upstream origin master
+```
+
+userid, pass
